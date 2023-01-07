@@ -7,4 +7,4 @@ Contrôle : ZQSD pour le déplacement, barre espace pour sauter, Maj pour courir
 ----------------------------------------------------
 # Code
 
-Ouvrir la scene Menu et commencer le jeu.
+Ouvrir la scene AstronautGame/Projet/Assets/Scenes/Menu et commencer le jeu.
